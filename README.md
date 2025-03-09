@@ -57,7 +57,7 @@
 🚀 Contributions are welcome! Feel free to submit PRs to add more architecture patterns or improve existing ones.
 
 ## 🏆 Credits
-Curated by **[Your Name]** 🎉
+Curated by **[Ryan Heida]** 🎉
 
 ---
 📌 **Stay tuned for more updates!** ✨
