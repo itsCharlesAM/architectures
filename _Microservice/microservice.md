@@ -2,7 +2,6 @@
 
 <img src="microservice.png" alt="Microservices Architecture" width="500">
 
-
 ## Introduction
 **Microservices Architecture** is a software development approach where an application is structured as a collection of small, loosely coupled, independently deployable services. Each service is responsible for a specific business function and communicates with other services via APIs.
 
