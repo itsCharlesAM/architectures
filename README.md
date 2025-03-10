@@ -6,11 +6,11 @@
 ## 📌 Architectures Included
 ### 1️⃣ Microservices 🏗️
 - **File:** [`microservice.md`](./_Microservice/microservice.md)
-- **Diagram:** ![Microservices](./_Microservice/microservice.webp)
+- **Diagram:** ![Microservices](./_Microservice/microservice.png)
 
 ### 2️⃣ Event-Driven ⚡
 - **File:** [`event-driven.md`](./_Event-Driven/event-driven.md)
-- **Diagram:** ![Event-Driven](./_Event-Driven/event-driven.webp)
+- **Diagram:** ![Event-Driven](./_Event-Driven/event-driven.jpg)
 
 ### 3️⃣ Serverless ☁️
 - **File:** [`serverless.md`](./_Serverless/serverless.md)

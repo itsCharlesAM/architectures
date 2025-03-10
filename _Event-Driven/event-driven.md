@@ -1,6 +1,6 @@
 # Event-Driven Architecture (EDA)
 
-<img src="event-driven.webp" alt="Event-Driven Architecture" width="500">
+<img src="event-driven.jpg" alt="Event-Driven Architecture" width="500">
 
 ## 📌 Introduction
 **Event-Driven Architecture (EDA)** is a software design pattern in which the flow of the program is determined by events. These events can be user actions, sensor readings, messages from other systems, or internal signals within an application.

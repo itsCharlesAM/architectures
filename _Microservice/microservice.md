@@ -1,6 +1,6 @@
 # Microservices Architecture
 
-<img src="microservice.webp" alt="Microservices Architecture" width="500">
+<img src="microservice.png" alt="Microservices Architecture" width="500">
 
 
 ## Introduction
