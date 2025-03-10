@@ -1,0 +1,81 @@
+{
+  "User": {
+    "Name": "RRR Haghayegh",
+    "Username": "sina",
+    "Email": "sina@nejabat.neco",
+    "Mobile": "09128068530",
+    "LastLogin": "2025-03-10T11:40:09.187",
+    "UserType": 8
+  },
+  "Posts": [
+    {
+      "ID": "37dec5bf-a4c1-46b4-9a07-1925b3b9c64d",
+      "Name": "Test Controller neco",
+      "IsStatic": true,
+      "isAccessCreateProject": true,
+      "isHaveAddressbar": false,
+      "Categories": [
+        "Admin",
+        "Guys"
+      ]
+    },
+    {
+      "ID": "c37b2215-aea7-4a48-97c1-753347939af4",
+      "Name": "test actor2",
+      "IsStatic": true,
+      "isAccessCreateProject": true,
+      "isHaveAddressbar": false,
+      "Categories": []
+    },
+    {
+      "ID": "8e7824cb-812f-4e3b-baf7-761a746b050d",
+      "Name": "Test actor",
+      "IsStatic": true,
+      "isAccessCreateProject": true,
+      "isHaveAddressbar": true,
+      "Categories": []
+    },
+    {
+      "ID": "49b9525c-a842-4d6f-bcf8-2d94a4905fa3",
+      "Name": null,
+      "IsStatic": false,
+      "isAccessCreateProject": true,
+      "isHaveAddressbar": true,
+      "Categories": []
+    },
+    {
+      "ID": "29f972c7-0f54-4789-902e-5bba037bf130",
+      "Name": null,
+      "IsStatic": false,
+      "isAccessCreateProject": true,
+      "isHaveAddressbar": true,
+      "Categories": []
+    },
+    {
+      "ID": "4676632b-f23b-4815-86c3-af8b51c09a43",
+      "Name": null,
+      "IsStatic": false,
+      "isAccessCreateProject": true,
+      "isHaveAddressbar": false,
+      "Categories": []
+    },
+    {
+      "ID": "b6348659-dcfc-4634-b010-ff3ee9964e10",
+      "Name": "",
+      "IsStatic": true,
+      "isAccessCreateProject": false,
+      "isHaveAddressbar": false,
+      "Categories": []
+    }
+  ],
+  "AppSettings": {
+    "Name": "main",
+    "Description": "desc",
+    "DefaultButtons": [
+      "1",
+      "9"
+    ],
+    "IsVisible": false,
+    "LastModified": "2024-02-06T23:04:06.68"
+  }
+}
